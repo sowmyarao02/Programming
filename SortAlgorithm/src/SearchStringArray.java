@@ -1,3 +1,7 @@
+/*	Given a sorted array of strings that is interpresed with empty strings, write 
+	a method to find the location of a given string
+*/
+
 
 public class SearchStringArray {
 	
